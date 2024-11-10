@@ -15,6 +15,6 @@
 <a href="https://www.linkedin.com/in/pranavkalsi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranavkalsi/" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> My Favourite Languages: https://www.linkedin.com/in/pranavkalsi/ </p>
+<p align="left"> My Favourite Languages: Python, Java, JavaScript, C, C++, TypeScript </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pkalxi&show_icons=true&locale=en&layout=compact" alt="lwray3" /></p>

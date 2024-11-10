@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently learning **React, MongoDB**
 
-- 👯 I’m looking to collaborate on **DevOps projects**
+- 👯 I’m looking to collaborate on **AI/GenAI projects**
 
-- 🤝 I’m looking for help with **robotics programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

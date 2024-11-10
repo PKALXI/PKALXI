@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Kalsi</h1>
 <h3 align="center">Innovative Software Engineer looking for 2025 new grad roles!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lwray3&label=Profile%20views&color=0e75b6&style=flat" alt="lwray3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pkalxi&label=Profile%20views&color=0e75b6&style=flat" alt="pkalxi" /> </p>
 
 - 🔭 I’m currently working on a **RapidCare** a system to speed up documention time through out a patients Medical Care journey.
 
